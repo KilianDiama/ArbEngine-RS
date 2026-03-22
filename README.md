@@ -1,3 +1,4 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
 # 🧮 High-Performance SIMD Engine in Rust
 
 This project is a **production-ready, high-performance SIMD engine** written in Rust.  
